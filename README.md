@@ -14,19 +14,19 @@ A personal collection of SVG icons.
 
 ## Available icons
 
-- `rotten-tomatoes-verified-hot-small`
-- `rotten-tomatoes-verified-hot`
-- `rotten-tomatoes-popcorn-empty`
-- `rotten-tomatoes-popcorn-stale`
-- `rotten-tomatoes-popcorn-hot`
-- `rotten-tomatoes-certified-fresh-small`
-- `rotten-tomatoes-certified-fresh`
-- `rotten-tomatoes-tomatometer-empty`
-- `rotten-tomatoes-rotten`
-- `rotten-tomatoes-fresh`
-- `imdb`
-- `imdb-monochrome`
-- `rotten-tomatoes`
+- <img src="icons/rotten-tomatoes-verified-hot-small.svg" alt="" height="32"> `rotten-tomatoes-verified-hot-small`
+- <img src="icons/rotten-tomatoes-verified-hot.svg" alt="" height="32"> `rotten-tomatoes-verified-hot`
+- <img src="icons/rotten-tomatoes-popcorn-empty.svg" alt="" height="32"> `rotten-tomatoes-popcorn-empty`
+- <img src="icons/rotten-tomatoes-popcorn-stale.svg" alt="" height="32"> `rotten-tomatoes-popcorn-stale`
+- <img src="icons/rotten-tomatoes-popcorn-hot.svg" alt="" height="32"> `rotten-tomatoes-popcorn-hot`
+- <img src="icons/rotten-tomatoes-certified-fresh-small.svg" alt="" height="32"> `rotten-tomatoes-certified-fresh-small`
+- <img src="icons/rotten-tomatoes-certified-fresh.svg" alt="" height="32"> `rotten-tomatoes-certified-fresh`
+- <img src="icons/rotten-tomatoes-tomatometer-empty.svg" alt="" height="32"> `rotten-tomatoes-tomatometer-empty`
+- <img src="icons/rotten-tomatoes-rotten.svg" alt="" height="32"> `rotten-tomatoes-rotten`
+- <img src="icons/rotten-tomatoes-fresh.svg" alt="" height="32"> `rotten-tomatoes-fresh`
+- <img src="icons/imdb.svg" alt="" height="32"> `imdb`
+- <img src="icons/imdb-monochrome.svg" alt="" height="32"> `imdb-monochrome`
+- <img src="icons/rotten-tomatoes.svg" alt="" height="32"> `rotten-tomatoes`
 
 `imdb-monochrome` uses `currentColor`; all other icons retain their source colors.
 The `-small` certification variants omit the badge text for small displays.
