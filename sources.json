@@ -1,0 +1,83 @@
+{
+  "retrieved": "2026-10-10",
+  "assets": [
+    {
+      "name": "rotten-tomatoes-verified-hot-small",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/default.00591cc3af1.js",
+      "modifications": "Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved.",
+      "sha256": "f6d7007b05e90c0ecf3901f547f3f5a588fa3f5cae2ea56449ba31f74343cda5"
+    },
+    {
+      "name": "rotten-tomatoes-verified-hot",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/default.00591cc3af1.js",
+      "modifications": "Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved.",
+      "sha256": "68ed2dc0f4b64e95b9ae6a88959aaebd8214f447315f5ff133b6205d2a7185e1"
+    },
+    {
+      "name": "rotten-tomatoes-popcorn-empty",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/default.00591cc3af1.js",
+      "modifications": "Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved.",
+      "sha256": "b3f0503dc9b3cad0d2160a0f128509bb51bed19281e75de9013555d6b571d799"
+    },
+    {
+      "name": "rotten-tomatoes-popcorn-stale",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/default.00591cc3af1.js",
+      "modifications": "Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved.",
+      "sha256": "8c3b192b2da6f58978945e2349f35875a6d03b78c598a3c9a7a1b62ab0da9a82"
+    },
+    {
+      "name": "rotten-tomatoes-popcorn-hot",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/default.00591cc3af1.js",
+      "modifications": "Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved.",
+      "sha256": "f662ec44cc081c56de567d1547114113c9b8753919fb92f9978f3e529000f0df"
+    },
+    {
+      "name": "rotten-tomatoes-certified-fresh-small",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/default.00591cc3af1.js",
+      "modifications": "Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved.",
+      "sha256": "0c49ce4cd0c79377eb3b647bd090924df715c1947c12143e948b77e1d28575e6"
+    },
+    {
+      "name": "rotten-tomatoes-certified-fresh",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/default.00591cc3af1.js",
+      "modifications": "Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved.",
+      "sha256": "069c17222e6b5a8d6ce8ced33fd9e934539df29f5becae1fca129dfcdfa3a758"
+    },
+    {
+      "name": "rotten-tomatoes-tomatometer-empty",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/default.00591cc3af1.js",
+      "modifications": "Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved.",
+      "sha256": "30586961ffc303d873357d840018d5c9663089902fd9a0e82cc62120abc2eeaf"
+    },
+    {
+      "name": "rotten-tomatoes-rotten",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/default.00591cc3af1.js",
+      "modifications": "Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved.",
+      "sha256": "8ecc8cdcd661d8d1dadb766f50276d2f3a919eb3c055558ec0af9ccd5c2a10e8"
+    },
+    {
+      "name": "rotten-tomatoes-fresh",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/default.00591cc3af1.js",
+      "modifications": "Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved.",
+      "sha256": "74a5f364289a886868d96039eb30db69bbd8340f668ff307d33984209855e602"
+    },
+    {
+      "name": "imdb",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg",
+      "modifications": "Removed XML/DTD wrapper and fixed dimensions; prefixed IDs. Artwork and colors preserved.",
+      "sha256": "a821ee33911a440601c2f4ae69302f29890a33262ee30ce00b2bdfe65c07c6cc"
+    },
+    {
+      "name": "imdb-monochrome",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/16.33.0/icons/imdb.svg",
+      "modifications": "Added currentColor fill for CSS coloring.",
+      "sha256": "eeff2fba25073bef6064ff7a68a78fd4d296997c807c9a0655e630db5839e858"
+    },
+    {
+      "name": "rotten-tomatoes",
+      "source": "https://www.rottentomatoes.com/assets/pizza-pie/images/rt-tomato-logo.20c3bdbc97b.svg",
+      "modifications": "Removed fixed dimensions; artwork and colors preserved.",
+      "sha256": "93943f625143769d016af83ccd672a95ea12afb3c932e28050524fd92e04bead"
+    }
+  ]
+}

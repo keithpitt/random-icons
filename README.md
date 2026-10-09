@@ -1,6 +1,6 @@
 # Random Icons
 
-A personal collection of SVG icons missing from other packs.
+A personal collection of SVG icons.
 
 ## Adding icons
 
@@ -12,7 +12,25 @@ A personal collection of SVG icons missing from other packs.
    `ATTRIBUTION.md`. Include any required license files in `licenses/`.
 4. Commit and push to `main`.
 
-The pack starts empty. No Rotten Tomatoes or other third-party assets are included yet.
+## Available icons
+
+- `rotten-tomatoes-verified-hot-small`
+- `rotten-tomatoes-verified-hot`
+- `rotten-tomatoes-popcorn-empty`
+- `rotten-tomatoes-popcorn-stale`
+- `rotten-tomatoes-popcorn-hot`
+- `rotten-tomatoes-certified-fresh-small`
+- `rotten-tomatoes-certified-fresh`
+- `rotten-tomatoes-tomatometer-empty`
+- `rotten-tomatoes-rotten`
+- `rotten-tomatoes-fresh`
+- `imdb`
+- `imdb-monochrome`
+- `rotten-tomatoes`
+
+`imdb-monochrome` uses `currentColor`; all other icons retain their source colors.
+The `-small` certification variants omit the badge text for small displays.
+Empty-score icons are separate from negative ratings.
 
 ## Using with unmagic-icon
 
@@ -38,12 +56,14 @@ bin/rails 'unmagic:icons:download[random-icons,force]'
 
 The downloader follows `main`. Existing installations are skipped unless forced.
 A forced refresh overwrites matching files but does not remove deleted icons.
-The empty pack will not appear in the icon browser until an SVG is added.
 
-For example, after adding `icons/rotten-tomatoes-fresh.svg`:
+For example:
 
 ```erb
 <%= unmagic_icon "random-icons/rotten-tomatoes-fresh", class: "size-6" %>
+<%= unmagic_icon "random-icons/rotten-tomatoes-popcorn-hot", class: "size-6" %>
+<%= unmagic_icon "random-icons/imdb", class: "h-6 w-12" %>
+<%= unmagic_icon "random-icons/imdb-monochrome", class: "size-6 text-yellow-500" %>
 ```
 
 ## Asset terms

@@ -1,9 +1,19 @@
 # Icon attribution
 
-No icons have been added yet. Record each asset here before adding it:
+Retrieved 2026-10-10. Exact asset URLs, SHA-256 hashes, and packaging changes are recorded in `sources.json`.
 
-| Filename | Source URL | Author / owner | License / usage terms | Modifications |
-| --- | --- | --- | --- | --- |
-
-Store required license text in `licenses/`; the downloader retains these files
-alongside the icons and this attribution file.
+| Filename | Source / owner | Terms | Modifications |
+| --- | --- | --- | --- |
+| `rotten-tomatoes-verified-hot-small.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved. |
+| `rotten-tomatoes-verified-hot.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved. |
+| `rotten-tomatoes-popcorn-empty.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved. |
+| `rotten-tomatoes-popcorn-stale.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved. |
+| `rotten-tomatoes-popcorn-hot.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved. |
+| `rotten-tomatoes-certified-fresh-small.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved. |
+| `rotten-tomatoes-certified-fresh.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved. |
+| `rotten-tomatoes-tomatometer-empty.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved. |
+| `rotten-tomatoes-rotten.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved. |
+| `rotten-tomatoes-fresh.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Extracted SVG template; inlined class styles, prefixed IDs, removed XML wrapper and fixed duplicate viewBox where present. Artwork and colors preserved. |
+| `imdb.svg` | [IMDb via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IMDB_Logo_2016.svg) | PD-textlogo; trademark. See `licenses/imdb.md`. | Removed XML/DTD wrapper and fixed dimensions; prefixed IDs. Artwork and colors preserved. |
+| `imdb-monochrome.svg` | [Simple Icons 16.33.0](https://github.com/simple-icons/simple-icons/tree/16.33.0) | CC0; trademark rights retained. See `licenses/simple-icons-CC0.md`. | Added currentColor fill for CSS coloring. |
+| `rotten-tomatoes.svg` | [Rotten Tomatoes / Fandango](https://www.rottentomatoes.com/help_desk/licensing) | Proprietary brand assets; see `licenses/rotten-tomatoes.md`. | Removed fixed dimensions; artwork and colors preserved. |
