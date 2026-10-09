@@ -62,7 +62,7 @@ For example:
 ```erb
 <%= unmagic_icon "random-icons/rotten-tomatoes-fresh", class: "size-6" %>
 <%= unmagic_icon "random-icons/rotten-tomatoes-popcorn-hot", class: "size-6" %>
-<%= unmagic_icon "random-icons/imdb", class: "h-6 w-12" %>
+<%= unmagic_icon "random-icons/imdb", class: "size-6" %>
 <%= unmagic_icon "random-icons/imdb-monochrome", class: "size-6 text-yellow-500" %>
 ```
 

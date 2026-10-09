@@ -1,8 +1,8 @@
 # IMDb colored logo
 
 Author / owner: Internet Movie Database (IMDb).
-Source: https://commons.wikimedia.org/wiki/File:IMDB_Logo_2016.svg
-Original SVG: https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg
+Source: https://commons.wikimedia.org/wiki/File:IMDb_Logo_Square.svg
+Original SVG: https://upload.wikimedia.org/wikipedia/commons/c/cc/IMDb_Logo_Square.svg
 Retrieved: 2026-10-10.
 
 The source file page marks this simple text logo as PD-textlogo (public domain)

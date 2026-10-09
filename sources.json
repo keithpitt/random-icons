@@ -63,9 +63,9 @@
     },
     {
       "name": "imdb",
-      "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg",
-      "modifications": "Removed XML/DTD wrapper and fixed dimensions; prefixed IDs. Artwork and colors preserved.",
-      "sha256": "a821ee33911a440601c2f4ae69302f29890a33262ee30ce00b2bdfe65c07c6cc"
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/IMDb_Logo_Square.svg",
+      "modifications": "Removed fixed dimensions; square viewBox, artwork and colors preserved.",
+      "sha256": "999dc0ab6d3ead5d4bacb7172bd24d3f3d2f6d6a0304a13feb26b768a6046357"
     },
     {
       "name": "imdb-monochrome",
